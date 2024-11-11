@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Stunning Visuals",
+        "slug": "guitar-fundamentals",
+        "description": "Eye-catching designs that captivate and engage your audience instantly.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Piano for Beginners",
+        "slug": "piano-for-beginners",
+        "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Creative UI/UX Design",
+        "slug": "advanced-vocal-techniques",
+        "description": "Intuitive interfaces that enhance user interaction and satisfaction.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Modern Aesthetics",
+        "slug": "music-production-fundamentals",
+        "description": "Clean, contemporary designs that reflect the latest trends in web design.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Innovative Web Design",
+        "slug": "electronic-music-production",
+        "description": "Cutting-edge designs that set your brand apart from the competition.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "slug": "classical-music-history",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "SEO-Optimized Websites",
+        "slug": "blues-guitar-techniques",
+        "description": "Increase visibility with websites designed to rank higher in search engines.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
